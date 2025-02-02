@@ -14,7 +14,7 @@ A gamified quiz app built with **React**, **Tailwind CSS**, and **Vite**. The ap
 
 Check out the `demo` folder for screenshots and a video walkthrough of the app.
 
-[![Watch the Demo](demo/home.png)](https://youtu.be/9spYlsJEyME)
+[![Watch the Demo](demo/quiz-app-demo.gif)](https://youtu.be/9spYlsJEyME)
 ![Quiz App Home](demo/home.png)
 ![Quiz Question](demo/question.png)
 ![Quiz Right Answer](demo/right-answer.png)

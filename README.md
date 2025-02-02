@@ -14,7 +14,7 @@ A gamified quiz app built with **React**, **Tailwind CSS**, and **Vite**. The ap
 
 Check out the `demo` folder for screenshots and a video walkthrough of the app.
 
-
+[![Watch the Demo](demo/home.png)](demo/quiz-app-demo.mp4)
 ![Quiz App Home](demo/home.png)
 ![Quiz Question](demo/question.png)
 ![Quiz Right Answer](demo/right-answer.png)
@@ -22,11 +22,12 @@ Check out the `demo` folder for screenshots and a video walkthrough of the app.
 ![Quiz Results](demo/results.png)
 
 
+
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/SURAJ-K-GUPTA/quiz-app.git
    cd quiz-app
    ```
 

@@ -17,9 +17,9 @@ Check out the `demo` folder for screenshots and a video walkthrough of the app.
 
 ![Quiz App Home](demo/home.png)
 ![Quiz Question](demo/question.png)
-![Quiz Results](demo/results.png)
 ![Quiz Right Answer](demo/right-answer.png)
 ![Quiz Wrong Answer](demo/wrong-answer.png)
+![Quiz Results](demo/results.png)
 
 
 ## Setup Instructions
